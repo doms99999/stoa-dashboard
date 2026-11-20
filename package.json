@@ -1,0 +1,1 @@
+{"dependencies":{"ethers":"^6.13.0"},"description":"Public dashboard of Stoa swaps on Robinhood Chain, from StoaRouter Routed events","name":"stoa-dashboard","scripts":{"fetch":"node fetch-swaps.js"},"type":"commonjs","version":"1.0.0"}
